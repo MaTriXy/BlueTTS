@@ -5,6 +5,7 @@ Hebrew TTS based on [SupertonicTTS](https://arxiv.org/abs/2503.23108). Stages ru
 | Doc | Contents |
 |-----|----------|
 | [`../README.md`](../README.md) | Commands: dataset prep, stats, DP, TTL |
+| [`datasets.md`](datasets.md) | Training corpora by language (Hebrew, English, DE/ES/IT) |
 | [`architecture_and_legacy_training.md`](architecture_and_legacy_training.md) | **Full architecture**, **training duration/settings**, parameter tables, flow matching, DP details, config |
 
 ---
